@@ -14,7 +14,7 @@
 ## About Me
 
 I'm **Raghauv Saravanan**, a dual-degree **Computer Science and Mathematics** student at the
-**University of Texas at Austin** (Dec 2027).
+**University of Texas at Austin** (May 2027).
 
 I like problems where the math and the systems both matter — reinforcement learning agents,
 compilers and operating systems built from the ground up, and trading algorithms that have to be
